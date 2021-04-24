@@ -1,0 +1,16 @@
+.bodydiv {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+.video {
+    size: 300px;
+}
+
+.shopping {
+    size: 300px;
+}
